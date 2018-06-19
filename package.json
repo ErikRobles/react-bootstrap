@@ -2,7 +2,7 @@
   "name": "react-bootstrap",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ErikRobles.github.io/react-bootstrap/index.html/",
+  "homepage": "https://ErikRobles.github.io/react-bootstrap/",
   "dependencies": {
     "react": "^16.4.1",
     "react-bootstrap": "^0.32.1",
@@ -10,7 +10,7 @@
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.4",
     "the-footer": "^2.1.5",
-    "main": "index.html"
+    "main": "index.js"
   },
   "scripts": {
     "predeploy": "npm run build",
