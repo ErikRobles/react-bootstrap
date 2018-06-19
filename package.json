@@ -9,7 +9,8 @@
     "react-dom": "^16.4.1",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.4",
-    "the-footer": "^2.1.5"
+    "the-footer": "^2.1.5",
+    "main": "index.js"
   },
   "scripts": {
     "predeploy": "npm run build",
