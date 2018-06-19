@@ -16,17 +16,17 @@ export default class Home extends Component {
         </Jumbotron>
         <Row className="show-grid text-center">
           <Col xs={12} sm={4} className="person-wrapper">
-          <Image src="public/assets/person-1.jpg" circle className="profile-pic" />
+          <Image src="assets/person-1.jpg" circle className="profile-pic" />
           <h3>Frank</h3>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non cumque sunt exercitationem fugiat est dolore ex perspiciatis pariatur cupiditate quia corrupti voluptatibus nostrum nam sint, laborum odit in natus architecto.</p>
           </Col>
           <Col xs={12} sm={4} className="person-wrapper">
-          <Image src="../assets/person-3.jpg" circle className="profile-pic" />
+          <Image src="assets/person-3.jpg" circle className="profile-pic" />
           <h3>Vanessa</h3>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non cumque sunt exercitationem fugiat est dolore ex perspiciatis pariatur cupiditate quia corrupti voluptatibus nostrum nam sint, laborum odit in natus architecto.</p>
           </Col>
           <Col xs={12} sm={4} className="person-wrapper">
-          <Image src="../assets/person-4.jpg" circle className="profile-pic" />
+          <Image src="assets/person-4.jpg" circle className="profile-pic" />
           <h3>Riff</h3>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non cumque sunt exercitationem fugiat est dolore ex perspiciatis pariatur cupiditate quia corrupti voluptatibus nostrum nam sint, laborum odit in natus architecto.</p>
           </Col>
