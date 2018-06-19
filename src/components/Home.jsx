@@ -21,7 +21,7 @@ export default class Home extends Component {
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non cumque sunt exercitationem fugiat est dolore ex perspiciatis pariatur cupiditate quia corrupti voluptatibus nostrum nam sint, laborum odit in natus architecto.</p>
           </Col>
           <Col xs={12} sm={4} className="person-wrapper">
-          <Image src="assets/person-3.jpg" circle className="profile-pic" />
+          <Image src="./assets/person-3.jpg" circle className="profile-pic" />
           <h3>Vanessa</h3>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non cumque sunt exercitationem fugiat est dolore ex perspiciatis pariatur cupiditate quia corrupti voluptatibus nostrum nam sint, laborum odit in natus architecto.</p>
           </Col>
